@@ -5,4 +5,4 @@ A simple 2D camera extension to the XNA platformer demo. Note that Microsoft no 
 
 How To Run
 ----------
-Download and unzip the latest release. Run setup.exe, or platformer.application. Navigate to the install directory and run the demo.
+Download and unzip the [latest release](https://github.com/apbeecham/XNACamera2D/releases/tag/1.0). Run setup.exe, or platformer.application. Navigate to the install directory and run the demo.
